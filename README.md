@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -109,7 +110,7 @@ Publish the website in the LocalHost.
   </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 ![440112568-28cfd4e4-baa0-4be9-9401-d9e3f1a2bb55](https://github.com/user-attachments/assets/d702f629-208b-44ad-be31-a3cc3a3a9674)
